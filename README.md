@@ -1,2 +1,2 @@
 # FirstProject
-# Prints 'hello world' to the screeen
+# Prints 'hello world' to the screen
